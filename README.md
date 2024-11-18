@@ -1,2 +1,1 @@
-This is the master branch
-Dev branch
+This is a development branch
